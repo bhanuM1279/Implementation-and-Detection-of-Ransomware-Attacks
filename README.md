@@ -42,7 +42,7 @@ Convert the Python script to an `.exe` to run on Windows victim:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile ransomware_script.py
+pyinstaller --onefile detection_victim_machine.py
 ```
 
 The `.exe` file will appear in the `dist/` folder.
