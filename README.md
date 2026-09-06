@@ -98,7 +98,7 @@ nc -lvp 4444 > received_key.key
 ```
 
 ---
-
+<!--
 ### **5. (Optional) Ransom Note or Command Server**
 
 Let victim contact our attacker system to:
@@ -112,7 +112,7 @@ You can simulate this using:
 * Flask server
 * Python HTTP server
 * Simple REST API
-
+-->
 ---
 
 ## 🔐 Safety Note
